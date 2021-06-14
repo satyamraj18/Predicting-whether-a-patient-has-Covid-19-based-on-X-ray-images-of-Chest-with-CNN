@@ -1,0 +1,1 @@
+# Predicting-whether-a-patient-has-Covid-19-based-on-X-ray-images-of-Chest-with-CNN
